@@ -1,7 +1,7 @@
 ![Screenshot](login.png)
 ![Screenshot](register.png)
 
-proceso de login completo, con base de datos mysql.
-incorporando el uso de JWT y el uso de sweetAlert.
 
-Para el front se utilizó bootstrap.
+complete login process, with mysql database. incorporating the use of JWT and the use of sweetAlert.
+
+  💁‍♂️ Bootstrap was used for the front.
